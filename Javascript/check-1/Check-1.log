@@ -1,0 +1,11 @@
+let　getNumGas = {
+    gass: 20.5,
+    num: 1234,
+};
+console.log(car);
+console.log('ガソリンは○○' + getNumGas + 'です');
+console.log('ナンバーは△△' + getNumGas + 'です');
+VM3773:5 {gass: 20.5, num: 1234}
+VM3773:6 ガソリンは○○[object Object]です
+VM3773:7 ナンバーは△△[object Object]です
+undefined
