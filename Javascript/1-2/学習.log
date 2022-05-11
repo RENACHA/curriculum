@@ -1,0 +1,9 @@
+const price = 100;
+console.log(price * 2);
+
+VM431:2 200
+undefined
+const price = 500;
+console.log(price * 2);
+VM467:2 1000
+undefined
