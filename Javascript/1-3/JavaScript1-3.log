@@ -1,0 +1,36 @@
+let a = 10;
+if (a >= 10 && a <= 20) {
+    console.log(a);  
+}
+VM2609:3 10
+undefined
+let a = 10;
+let b = 15;
+//偶数の条件式
+if (a % 2 === 0) {
+    console.log(a);
+}
+VM2685:5 10
+undefined
+let score = 10;
+if (score >= 20) {
+    console.log('合格');
+} else if(score === 0){
+    console.log('0点はまずいです...');  
+} else {
+    console.log('不合格'); 
+}
+VM2709:7 不合格
+undefined
+let a = 0;
+let b = 0;
+//偶数の条件式
+if (a % 2 === 0) {
+    console.log(a);
+}
+//奇数の条件式
+if (b % 2 !== 0) {
+    console.log(b);
+}
+VM2729:5 0
+undefined
